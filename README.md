@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome👋&animation=fadeIn&fontSize=55&fontAlignY=40&desc=minseo%20&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome👋&animation=fadeIn&fontSize=55&fontAlignY=40&desc=walwald%20&descSize=30)
 
 <hr />
 
@@ -33,8 +33,8 @@
 <div align="center">
    <p display="inline">
     <a href="https://github.com/walwald">
-     <img height="180" src="https://github-readme-stats.vercel.app/api?username=minseoya&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=omni" />
-     <img width="386" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseoya&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=omni&hide=none" />
+     <img height="180" src="https://github-readme-stats.vercel.app/api?username=walwald&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=omni" />
+     <img width="386" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walwald&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=omni&hide=none" />
     </a>
   </p>
 
