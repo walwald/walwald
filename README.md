@@ -25,7 +25,7 @@
 
 > Email : <97djang@gmail.com>
 > 
-> Blog : [MyBlog](https://walwaldev.tistory.com/ "MYBolg")
+> Blog : [왈왈이의 기술 블로그](https://walwaldev.tistory.com/ "MYBolg")
 > 
 > Github : [Github](https://github.com/walwald "Github!1")
 
